@@ -1,0 +1,7 @@
+PHPMailer
+
+https://www.homehost.com.br/blog/tutoriais/php/enviar-email-php-com-phpmailer-smtp/
+
+PHPMailer com o GMAIL
+
+https://blog.invettor.com.br/phpmailer-gmail-outros-provedores/
